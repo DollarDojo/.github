@@ -49,7 +49,7 @@ Get started with the contribution guidelines [here](https://github.com/dollardoj
 If you are not a developer, coder, programmer.. there are a number of projects and things we would love for you to contribute to. Let us know!  
 We are working on a Developer guide.
 
-We are actively looking for active contributors and participation to this group and it's metadata.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository as well as the one at [Wesbsite Repository](https://www.github.com/taotnpwaft/website/)
+We are actively looking for active contributors and participation to this group and it's metadata.  If you would like to see the things we need help with, please see TODO.md and also the [Issues] tab and the Project board on this repository.
 
 We would like to encourage you to participate in making this one of the best social media based tech groups there is.
 
